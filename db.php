@@ -3,7 +3,7 @@ $conn = new mysqli(
     "mysql-edwinagudelo.alwaysdata.net",
     "edwinagudelo",
     "clase1234",
-    "edwinagudelo_gestioncompartida1"
+    "edwinagudelo_gestioncompartida2"
 );
 
 if ($conn->connect_error) {
